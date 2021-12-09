@@ -10,7 +10,7 @@ class Player:
     def __init___(self,...):
         # initialise a player
 
-    def update_position(self,...):
-        # update the postion of a player
+    def make_move(self,...):
+        # move a move and update the postion of a player
 
         
