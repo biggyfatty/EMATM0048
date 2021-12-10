@@ -11,6 +11,8 @@ class Player:
         # initialise a player
 
     def make_move(self,...):
-        # move a move and update the postion of a player
-        # you may want to split move and update_position to help the inheritance
+        # make a move 
+    
+    def update_position(self,...):
+        # update position of the player
         
